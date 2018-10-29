@@ -80,7 +80,7 @@
  *****************************************************************************************************************************/
 
 metadata {
-	definition (name: "JJ's Fibaro FGK-10x ZW5 Handler", namespace: "JJG2014", author: "Jean-Jacques GUILLEMAUD") {
+	definition (name: "JJ's Fibaro FGK-10x ZW5 Handler", namespace: "JJ-s-ZW5", author: "Jean-Jacques GUILLEMAUD") {
 		capability "Contact Sensor"
 		capability "Battery"
 		capability "Configuration"
